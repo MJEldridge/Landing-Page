@@ -1,0 +1,45 @@
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+body {
+    margin: 0px;
+}
+
+.header {
+    background-color: #1F2937;
+    padding: 150px;
+    padding-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#title {
+    font-weight: bolder;
+    color: #F9FAF8;
+    font-size: 48px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+
+ul {
+    display: flex;
+    margin: 8px;
+    padding: 0px;
+    gap: 16px;
+    list-style: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+p {
+    color: white;
+}
