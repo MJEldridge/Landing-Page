@@ -131,3 +131,25 @@ p {
     margin: 10px;
     color: #3882F6;
 }
+
+
+.container3 {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 36px;
+    padding: 120px;
+    filter: contrast(50%);
+    padding-bottom: 20px;
+}
+
+.signature {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 150px;
+    padding-bottom: 100px;
+}
