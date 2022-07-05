@@ -93,5 +93,41 @@ p {
     margin-top: 120px;
 }
 
+.title {
+    font-weight: bold;
+    color: #1F2937;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+}
 
 
+.container2 {
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+    max-width: 200px;
+    margin-bottom: 50px;
+}
+
+.image {
+    display: flex;
+    padding: 15px;
+    height: 80px;
+    width: 80px;
+    border-radius: 8px;
+    border-color: aqua;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    margin: 10px;
+    color: #3882F6;
+}
