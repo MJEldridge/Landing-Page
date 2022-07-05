@@ -146,6 +146,7 @@ p {
     padding: 120px;
     filter: contrast(50%);
     padding-bottom: 20px;
+    font-style: italic;
 }
 
 .signature {
