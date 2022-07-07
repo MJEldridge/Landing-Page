@@ -220,3 +220,17 @@ a {
     border-color: white;
     border-style: solid;
 }
+
+
+.footer {
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+.copyright {
+    color: #E5E7EB;
+    filter: contrast(75%);
+}
